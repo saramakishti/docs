@@ -1,7 +1,6 @@
->Sara Makishti
+> Explore Frontend Documentation
 
-[Home](index.md)
-[Github](https://github.com/saramakishti)
+[Go to Docs](index.md)
+[Github](https://github.com/CardoAI)
 
-
-![color](#fcbae7)
+![color](#1890ff)
